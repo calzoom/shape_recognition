@@ -1,4 +1,4 @@
-Japjot Singh - Solution to Uizard Shape Recognition Challenge
+Japjot Singh - Noisy Shape Recognition
 
 To use my algorithm in python shell run:
 >>> cool_algorithm.py <image path string>
